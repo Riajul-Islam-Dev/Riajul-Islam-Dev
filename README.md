@@ -14,7 +14,7 @@
 - 🔎 **[GitHub](https://github.com/Riajul-Islam-EWU)**
 - 🔎 **[LinkedIn](https://www.linkedin.com/in/rit-ewu)**
 - 🔎 **[Twitter](https://twitter.com/rit_ewu)**
-- 🔎 **[Skype - ritewu2014@gmail.com](https://www.skype.com/en/)**
+- 🔎 **[Skype](https://join.skype.com/invite/vF7JhBbtaHRQ)**
 <br/>
 <br/>
 <br/>
