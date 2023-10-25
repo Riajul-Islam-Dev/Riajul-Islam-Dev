@@ -1,105 +1,52 @@
-# RIAJUL ISLAM
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>👋 Hey! This is Riajul Islam. Nice to see you.</h1>
 
-![GitHub Profile](https://img.shields.io/badge/GitHub-riajul--islam--dev-brightgreen?style=flat-square&logo=github)
-![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-riajul--islam--dev-blue?style=flat-square&logo=linkedin)
-![Skype Profile](https://img.shields.io/badge/Skype-riajul--islam--dev-blue?style=flat-square&logo=skype)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Yii Framework](https://img.shields.io/badge/Yii%20Framework-FFD43B?style=flat-square&logo=yii&logoColor=black)
+![Golang](https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
 
-## Contact Information
+I am a experienced Full Stack Web Developer with a strong track record of solution-focused work and an unwavering commitment to web development. My career objective is underscored by my self-motivation, team-building skills, and a consistent ability to deliver the best results in this ever-evolving field.
 
-- **Address**: Road No. 1, West Nandipara, Khilgaon, Dhaka 1219
-- **Phone**: +8801722787007
-- **E-mail**: riajul.islam.dev@gmail.com
+My educational background includes Japanese-language proficiency at Level N3. I hold a BSc in Computer Science & Engineering from East West University, Dhaka. 
 
-## Career Objective
+My expertise spans both front-end and back-end technologies, encompassing HTML, CSS, Bootstrap, JavaScript, jQuery, Ajax, Vue.js, C, C++, Golang, PHP, MySQL, PostgreSQL, and frameworks such as Laravel, Yii, and ASP.NET Core MVC. Additionally, I possess skills in Internet of Things (IoT).
 
-Experienced Full Stack Web Developer with a proven track record of solution-focused work and an unwavering commitment to web development. Known for my self-motivation, team-building skills, and consistently delivering best results in this ever-evolving field.
+In my spare time, I enjoy reading books and listening to music. My diverse skill set and strong commitment to the field make me a valuable addition to any web development project. **I'm open to work and employment opportunities**.
 
-## Education
+- 🌱 I'm always learning because I believe there's something new to discover every day.
+- 🌎 I'm ready for new job opportunities, whether they're far away or right at home.
+- 💬 I'm here to chat about Vue.js, PHP, Laravel, and APIs.
+- 📫 You can email me anytime at [riajul.islam.dev@gmail.com].
+- 🧑🏻‍💻 I'm not just a techie – I love cooking and going on motorcycle adventures. 🍳 🏍️
 
-- **Japanese-language proficiency Level N3**
-  - VENTURAS Ltd., Dhaka (May 15, 2022 – Nov 30, 2022)
-- **BSc in Computer Science & Engineering**
-  - East West University, Dhaka (May 2014 – August 2019)
-- **HSC in Science**
-  - Advanced Residential Model College, Mymensingh (Jul 2011 – Jun 2013)
-- **SSC in Science**
-  - Agricultural University High School, Mymensingh (Jan 2003 – Mar 2011)
+## 📊 GitHub Stats
 
-## Experience
+![Riajul Islam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riajul-Islam-Dev&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
-- **Associate Web Developer**
-  - Perky Rabbit, Dhaka
-  - September 2020 – October 2021
+![Riajul Islam's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Riajul-Islam-Dev&theme=darcula&hide_border=true)
 
-- **Intern Web Developer**
-  - ZUU Co., Ltd., Japan
-  - December 2022 – February 2023
+![Riajul Islam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Riajul-Islam-Dev&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
-- **Full Stack Web Developer**
-  - NexKraft Limited, Dhaka
-  - October 2021 – April 2022
+## 👀 Where to find me
 
-- **Full Stack Web Developer**
-  - Leotech BD, Dhaka
-  - May 2022 – To date
+[![Phone](https://img.shields.io/badge/📞-%2B8801722787007-brightgreen?style=flat-square&amp;logo=phone)](tel:+8801722787007)
+[![E-mail](https://img.shields.io/badge/Email-riajul.islam.dev@gmail.com-brightgreen?style=flat-square&amp;logo=gmail)](mailto:riajul.islam.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-riajul--islam--dev-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/riajul-islam-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-riajul--islam--dev-brightgreen?style=flat-square&logo=github)](https://github.com/Riajul-Islam-Dev)
+[![Skype](https://img.shields.io/badge/Skype-riajul--islam--dev-blue?style=flat-square&logo=skype)](https://join.skype.com/invite/y4awZfHii9yl)
+[![Facebook](https://img.shields.io/badge/Facebook-ritewu2014-blue?style=flat-square&logo=facebook)](https://www.facebook.com/ritewu2014)
 
-## Skill Highlights
-
-### Front-end Technologies
-
-- HTML, CSS, Bootstrap
-- JavaScript, jQuery, Ajax
-- Vue.js
-
-### Back-end Technologies
-
-- C, C++, Golang
-- PHP, MySQL, PostgreSQL
-- Laravel, Yii Framework
-- ASP.NET Core MVC
-
-### Additional Skills
-
-- Internet of Things (IoT)
-
-## Projects
-
-1. **CaseHub (BRAC’s Legal & Compliance Website)**
-   - Developed this Website’s Phase 3
-   - [CaseHub Website](https://casehub.brac.net)
-   - Legal Information Management System
-   - Case & Lawyer Management System for any Organization
-   - [GitHub Repository](https://github.com/Riajul-Islam-Dev/lims-skote-laravel-starterkit)
-
-2. **Online Shop Yii**
-   - Online Ecommerce Shop in Yii Framework
-   - [GitHub Repository](https://github.com/Riajul-Islam-Dev/Online_Shop_Yii)
-
-3. **Ecommerce in Laravel**
-   - Ecommerce Management System for any Brand or Company with POS, stock, Employee & Customer management.
-   - [GitHub Repository](https://github.com/Riajul-Islam-Dev/Arong-Dhong)
-
-4. **Academic System in Raw PHP**
-   - Management system for Admin, Teacher, Student & Staff’s Profile, Exam & Result system
-   - [GitHub Repository](https://github.com/Riajul-Islam-Dev/PerkyRabbit__Result_Publishment_System)
-
-5. **Web App ASP.NET Core MVC**
-   - ASP.NET Core MVC based Web App to purchase products
-   - [GitHub Repository](https://github.com/Riajul-Islam-Dev/WebApp_ASP.NET_Core_MVC)
-
-6. **IOT Based Project**
-   - IOT Based Smart Window with Remote Controlling System
-   - [GitHub Repository](https://github.com/Riajul-Islam-Dev/IOT-Based-Smart-Window-with-Remote-Controlling-System)
-
-## References
-
-- **Dr. Md. Nawab Yousuf Ali**
-  - Professor, Department of Computer Science and Engineering, East West University
-  - Email: nawab@ewubd.edu
-  - Tel: +88 09666775577 Ext. 104
-
-- **Dr. Ahmed Wasif Reza**
-  - Professor, Department of Computer Science and Engineering, East West University
-  - Email: wasif@ewubd.edu
-  - Tel: +88 09666775577 Ext. 394
 
