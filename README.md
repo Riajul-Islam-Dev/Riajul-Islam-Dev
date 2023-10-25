@@ -29,7 +29,7 @@ In my spare time, I enjoy reading books and listening to music. My diverse skill
 - 🌱 I'm always learning because I believe there's something new to discover every day.
 - 🌎 I'm ready for new job opportunities, whether they're far away or right at home.
 - 💬 I'm here to chat about Vue.js, PHP, Laravel, and APIs.
-- 📫 You can email me anytime at [riajul.islam.dev@gmail.com].
+- 📫 You can email me anytime at [ riajul.islam.dev@gmail.com ].
 - 🧑🏻‍💻 I'm not just a techie – I love cooking and going on motorcycle adventures. 🍳 🏍️
 
 ## 📊 GitHub Stats
