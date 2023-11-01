@@ -58,4 +58,4 @@ In my spare time, I enjoy reading books and listening to music. My diverse skill
 
 </div>
 
-## <p align="center">Feel free to contact 💙<p/>
+<p align="center">Feel free to contact 💙<p/>
