@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Yii%20Framework-FFD43B?style=flat&logo=yii&logoColor=black" />
+  <img src="https://img.shields.io/badge/CodeIgniter-E74C3C?style=flat&logo=codeigniter&logoColor=white" />
   <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
@@ -18,6 +19,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-0CC1F3?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/VAPT-FFA500?style=flat&logo=security&logoColor=white" />
 </div>
 
 <h3 align="center">🌟 About Me 🌟</h3>
@@ -33,8 +35,8 @@
 <p align="center">
   🌐 **Front-end:** HTML, CSS, Bootstrap, JavaScript, jQuery, Ajax, Vue.js<br>
   🖥️ **Back-end:** C, C++, Golang, PHP, MySQL, PostgreSQL<br>
-  ⚙️ **Frameworks:** Laravel, Yii, ASP.NET Core MVC<br>
-  🔗 **Specialties:** Internet of Things (IoT)<br>
+  ⚙️ **Frameworks:** Laravel, Yii, CodeIgniter, ASP.NET Core MVC<br>
+  🔗 **Specialties:** Internet of Things (IoT), VAPT (Vulnerability Assessment & Penetration Testing)<br>
 </p>
 
 <h4 align="center">🏆 Achievements</h4>
@@ -51,11 +53,13 @@
 <p align="center">
   🌱 Always learning – there's something new to discover every day!<br>
   🌍 Ready for job opportunities, near or far!<br>
-  💬 Let's chat about Vue.js, PHP, Laravel, and APIs!<br>
+  💬 Available for chat anytime!<br>
 </p>
 
 <p align="center">
-  📫 Feel free to email me at <a href="mailto:riajul.islam.dev@gmail.com">riajul.islam.dev@gmail.com</a>
+  📫 Feel free to email me at <a href="mailto:riajul.islam.dev@gmail.com">riajul.islam.dev@gmail.com</a><br>
+  🌐 Personal Portfolio: <a href="https://riajul.islam.softkit.xyz/">Riajul Islam</a><br>
+  🏢 Company Portfolio: <a href="https://softkit.xyz/">SoftkIT</a>
 </p>
 
 <p align="center">
@@ -74,11 +78,13 @@
 
 <div align="center">
   <a href="https://riajul-islam-dev.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-riajul--islam--dev.github.io-2ea44f?style=flat&logo=github" /></a>
+  <a href="https://softkit.xyz/" target="_blank"><img src="https://img.shields.io/badge/Website-softkit.xyz-2ea44f?style=flat&logo=googleearth" /></a>
+  <a href="https://riajul.islam.softkit.xyz/" target="_blank"><img src="https://img.shields.io/badge/Website-riajul.islam.softkit.xyz-2ea44f?style=flat&logo=googleearth" /></a>
   <a href="tel:+8801722787007"><img src="https://img.shields.io/badge/📞_Phone-%2B8801722787007-00cc00?style=flat&logo=phone" /></a>
   <a href="mailto:riajul.islam.dev@gmail.com"><img src="https://img.shields.io/badge/Email-riajul.islam.dev@gmail.com-00cc00?style=flat&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/riajul-islam-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-riajul--islam--dev-2867B2?style=flat&logo=linkedin&logoColor=00AFF0" /></a>
   <a href="https://github.com/Riajul-Islam-Dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-riajul--islam--dev-00cc00?style=flat&logo=github" /></a>
-  <a href="https://join.skype.com/invite/y4awZfHii9yl" target="_blank"><img src="https://img.shields.io/badge/Skype-riajul--islam--dev-00a2ed?style=flat&logo=skype" /></a>
+  <a href="https://join.skype.com/invite/y4awZfHii9yl" target="_blank"><img src="https://img.shields.io/badge/Skype-riajul--islam--dev-00a2ed?style=flat&logo=X" /></a>
   <a href="https://www.facebook.com/ritewu2014" target="_blank"><img src="https://img.shields.io/badge/Facebook-ritewu2014-1877f2?style=flat&logo=facebook" /></a>
 </div>
 
