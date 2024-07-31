@@ -22,25 +22,30 @@
 
 <h3 align="center">🌟 About Me 🌟</h3>
 <p align="center">
-  I'm an experienced Full Stack Web Developer with a strong track record in delivering solution-focused work and a commitment to excellence in web development. My journey is fueled by self-motivation and the ability to thrive in team environments.
+  I'm an experienced Full Stack Web Developer with over 4 years of experience in delivering solution-focused work. My journey is fueled by self-motivation and the ability to thrive in team environments.
 </p>
 
 <p align="center">
   🎓 I hold a BSc in Computer Science & Engineering from East West University, Dhaka, and I'm proficient in Japanese at Level N3.
 </p>
 
+<h4 align="center">🔧 Skills</h4>
 <p align="center">
-  My expertise spans both front-end and back-end technologies, including:
+  🌐 **Front-end:** HTML, CSS, Bootstrap, JavaScript, jQuery, Ajax, Vue.js<br>
+  🖥️ **Back-end:** C, C++, Golang, PHP, MySQL, PostgreSQL<br>
+  ⚙️ **Frameworks:** Laravel, Yii, ASP.NET Core MVC<br>
+  🔗 **Specialties:** Internet of Things (IoT)<br>
 </p>
-<ul>
-  <li>🌐 **Front-end:** HTML, CSS, Bootstrap, JavaScript, jQuery, Ajax, Vue.js</li>
-  <li>🖥️ **Back-end:** C, C++, Golang, PHP, MySQL, PostgreSQL</li>
-  <li>⚙️ **Frameworks:** Laravel, Yii, ASP.NET Core MVC</li>
-  <li>🔗 **Specialties:** Internet of Things (IoT)</li>
-</ul>
+
+<h4 align="center">🏆 Achievements</h4>
+<p align="center">
+  - Successfully developed and deployed projects for organizations like Bangladesh Army, BRAC, and the Bangladesh Water Development Board, improving user engagement by 100%.<br>
+  - Solved complex problems and optimized code to enhance efficiency.<br>
+  - Contributed to many projects remotely, showcasing my collaborative nature.
+</p>
 
 <p align="center">
-  In my free time, I love reading and listening to music. My diverse skill set and strong commitment to the field make me a valuable addition to any web development project. **I'm open to work and employment opportunities!**
+  In my free time, I love reading and listening to music. **I'm open to work and employment opportunities!**
 </p>
 
 <p align="center">
